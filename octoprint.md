@@ -17,3 +17,6 @@ My vision for the project was as follows:
 - This website can also serve as a homepage for all 3D-printer related activity at BIT (Guides, Code of conduct, etc.)
 
 My main goal was to help reduce the common frustrations of using 3D printers, particularly the Creality Enders used by the school. I also wanted to enhance the features and increase accessibility to people who were disabled or injured and for whatever reason had trouble with using the Ender's primitive 3D printer interfaces.
+
+![image](https://user-images.githubusercontent.com/57237159/201842625-fe3a7817-dd75-44b6-b592-f3358073afb2.png)
+**Figure:** A sample of the documentation I wrote in the "Creating an Octoprint Insatnce" guide.
